@@ -1,0 +1,442 @@
+Kucing
+Meja
+Ayam
+Puteri
+Buku
+Gajah
+Televisi
+Anak
+Ular
+Lampu
+Katak
+Pensil
+Kelinci
+Komputer
+Ibu
+Burung
+Mobil
+Ayah
+Singa
+Kursi
+Harimau
+Roti
+Monyet
+Sepeda
+Kuda
+Gelas
+Ikan
+Pohon
+Mawar
+Tikus
+Jam
+Kupu-kupu
+Rumah
+Bola
+Jendela
+Anjing
+Kamera
+Pisang
+Kapal
+Adik
+Kardus
+Jerapah
+Taman
+Kebun
+Matahari
+Dokter
+Perahu
+Kayu
+Kertas
+Serigala
+Pena
+Setir
+Kalkulator
+Topi
+Sepatu
+Celana
+Bendera
+Pantai
+Pulau
+Gunung
+Laut
+Selam
+Kura-kura
+Lumba-lumba
+Ikan paus
+Bakso
+Martabak
+Biskuit
+Kue
+Kereta
+Bus
+Kotak
+Koin
+Sepeda motor
+Pesawat
+Helikopter
+Kereta api
+Kapal selam
+Kapal pesiar
+Peluru
+Senjata
+Pedang
+Tameng
+Perisai
+Topeng
+Tabung
+Kotak korek api
+Tabung gas
+Botol air
+Kantong plastik
+Kotak tisu
+Sapu
+Ember
+Sikat
+Alat potong
+Penggaris
+Proyektor
+Mikroskop
+Teleskop
+Pemutar musik
+Permainan
+Boneka
+Bola voli
+Raket
+Bola basket
+Tenda
+Sleeping bag
+Kompor
+Panci
+Sendok
+Garpu
+Pisau
+Piring
+Mangkuk
+Andi
+Budi
+Cindy
+Dewi
+Eka
+Fajar
+Gita
+Hadi
+Indra
+Joko
+Kartika
+Lina
+Mega
+Nina
+Oscar
+Putra
+Rani
+Sari
+Tono
+Utami
+Vina
+Wahyu
+Yanti
+Zainal
+Rina
+Sinta
+Bayu
+Citra
+Dirga
+Fitri
+Hendra
+Ina
+Juli
+Kusuma
+Luki
+Mira
+Nana
+Omar
+Putri
+Riko
+Siska
+Taufik
+Uci
+Vera
+Wira
+Yuni
+Zack
+Rudi
+Laptop
+Charger
+Buku tulis
+Pensil warna
+Koper
+Jas
+Jaket
+Tali
+Sepeda lipat
+Helm
+Permen
+Kacang
+Susu
+Es krim
+Pizza
+Hotdog
+Taco
+Burger
+Sate
+Sambal
+Layar
+Ponsel
+Baterai
+Speaker
+Kamera video
+Tripod
+Drone
+Permainan papan
+Puzzle
+Rubik
+Sepatu roda
+Gitar
+Piano
+Biola
+Drum
+Mikrofon
+Studio
+Parfum
+Shampoo
+Sabun
+Sikat gigi
+Pasta gigi
+Sisir
+Deodoran
+Tas
+Dompet
+Kunci
+Sandal
+Sepatu bot
+Kaos
+Topi
+Cincin
+Kalung
+Gelang
+Anting
+Jam tangan
+Kalender
+Poster
+Peta
+Globe
+Kertas kado
+Kartu ucapan
+Buku gambar
+Lukisan
+Patung
+Vas bunga
+Bantal
+Guling
+Selimut
+Sprei
+Kasur
+Meja makan
+Kursi goyang
+Lemari
+Kompor listrik
+Oven
+Microwave
+Blender
+Rice cooker
+Mesin cuci
+Kulkas
+Vacuum cleaner
+Setrika
+Telepon
+Buku telepon
+Kartu SIM
+WiFi router
+Modem
+Headset
+Earphone
+USB flash drive
+Hard disk
+Monitor
+Keyboard
+Mouse
+Printer
+Scanner
+Mesin fotokopi
+Meja kerja
+Kursi kantor
+Rak buku
+Lemari arsip
+AC
+Kipas angin
+Lampu meja
+Lampu dinding
+Tirai
+Jendela kaca
+Karpet
+Vaksin
+Stetoskop
+Termometer
+Alat suntik
+Infus
+Obat-obatan
+Tablet
+Kapsul
+Sirup
+Salep
+Perban
+Plester
+Masker
+Sarung tangan
+Apron
+Sepatu medis
+Alat tensi
+Timbangan badan
+Kursi roda
+Tempat tidur pasien
+Monitor kesehatan
+Obat batuk
+Obat demam
+Obat nyeri
+Obat antibiotik
+Obat alergi
+Obat tekanan darah
+Suplemen
+Vitamin
+Makanan sehat
+Jus buah
+Air mineral
+Cokelat
+Biskuit
+Keripik
+Kerupuk
+Mie instan
+Bubur
+Roti gandum
+Sereal
+Yogurt
+Minuman bersoda
+Minuman energi
+Minuman ringan
+Teh
+Kopi
+Air kelapa
+Air jeruk
+Jus sayuran
+Air lemon
+Smoothie
+Milkshake
+Kue kering
+Cake
+Brownies
+Cupcake
+Tart
+Es teler
+Es campur
+Es cincau
+Martabak manis
+Martabak telur
+Pisang goreng
+Tahu isi
+Tempe mendoan
+Sate ayam
+Sate kambing
+Soto ayam
+Soto daging
+Sup ayam
+Sup daging
+Sup ikan
+Gado-gado
+Ketoprak
+Pecel
+Nasi goreng
+Mie goreng
+Mie rebus
+Bakso
+Siomay
+Sate padang
+Rendang
+Dendeng
+Ikan bakar
+Ayam bakar
+Bebek bakar
+Sop buntut
+Rawon
+Gudeg
+Nasi liwet
+Nasi campur
+Nasi kuning
+Nasi uduk
+Nasi padang
+Nasi gudeg
+Nasi kapau
+Nasi pecel
+Lontong sayur
+Lontong opor
+Lontong sate
+Lontong balap
+Nasi kucing
+Nasi goreng seafood
+Nasi goreng ayam
+Nasi goreng kambing
+Nasi goreng babi
+Nasi goreng telur
+Nasi goreng udang
+Bubur ayam
+Bubur kacang hijau
+Bubur sumsum
+Bubur candil
+Bubur ketan hitam
+Bubur campur
+Bubur kampiun
+Bubur sagu
+Kue lapis
+Kue cubit
+Kue klepon
+Kue putu
+Kue putu mayang
+Kue apem
+Kue cucur
+Kue dadar gulung
+Kue onde-onde
+Kue semar mendem
+Kue talam
+Kue lapis legit
+Kue lapis surabaya
+Kue kering
+Kue basah
+Kue sus
+Kue nastar
+Kue kastengel
+Kue putri salju
+Kue bolu
+Kue brownies
+Kue pukis
+Kue pastel
+Kue risoles
+Kue donat
+Kue muffin
+Kue pie
+Kue tart
+Kue lapis beras
+Kue serabi
+Kue lupis
+Kue tradisional
+Kue modern
+Kue pasar
+Kue jajan pasar
+Kue ulang tahun
+Kue lebaran
+Kue natal
+Kue imlek
+Kue kering lebaran
+Kue kering natal
+Kue kering imlek
+Kue sus
+Kue cubit
+Kue kering
+Kue basah
+Kue tradisional
+Kue modern
+Kue ulang tahun
+Kue lebaran
+Kue natal
+Kue imlek
+Kue kering lebaran
+Kue kering natal
+Kue kering imlek

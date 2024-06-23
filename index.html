@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cek Khodam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-image: url('img/bg.webp');
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .hero {
+            background-color: rgba(255, 255, 255, 0.539);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 90%;
+            width: 400px; 
+            text-align: center;
+        }
+        h1 {
+            margin: 0 0 20px;
+        }
+        p {
+            margin: 10px 0;
+            font-size: 12px;
+        }
+        input {
+            width: calc(100% - 22px); 
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #cccccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #e29f19;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #be8719;
+        }
+
+        #hasil {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero">
+        <h1>Cek Khodam Kamu</h1>
+        <p>Isi nama kamu di bawah ini untuk mengetahui khodam</p>
+        <form id="khodamForm">
+            <input type="text" id="nama" name="nama" required placeholder="Masukkan nama kamu">
+            <button type="submit">Cek Khodam</button>
+        </form>
+        <p id="hasil"></p>
+    </section>
+
+    <script>
+        document.getElementById('khodamForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            fetch('khodam.txt')
+                .then(response => response.text())
+                .then(data => {
+                    const khodamWords = data.split('\n').map(word => word.trim()).filter(word => word !== '');
+                    const maxWords = 2; 
+                    const selectedWords = getRandomWords(khodamWords, maxWords);
+                    document.getElementById('hasil').innerText = `Khodam kamu: ${selectedWords.join(' ')}`;
+                })
+                .catch(error => {
+                    console.error('Error fetching khodam:', error);
+                    document.getElementById('hasil').innerText = 'Gagal mengambil data khodam.';
+                });
+        });
+
+        function getRandomWords(wordsArray, maxWords) {
+            const shuffledArray = wordsArray.sort(() => 0.5 - Math.random());
+            const numWordsToShow = Math.min(maxWords, shuffledArray.length);
+            return shuffledArray.slice(0, numWordsToShow);
+        }
+    </script>
+</body>
+</html>
